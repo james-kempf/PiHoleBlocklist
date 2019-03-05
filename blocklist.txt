@@ -1,2 +1,4 @@
 googlead.doubleclick.net
+googleads.g.doubleclick.net
+adclick.g.doubleclick.net
 ad.doubleclick.net
